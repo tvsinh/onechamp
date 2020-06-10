@@ -201,18 +201,12 @@ body{
 .gapps{
 	background: url(../images/img-sprit.png) no-repeat -240px -65px;
 }
-.big-btns {
-	/* margin-top: 2em; */
-}
 /*---start-wrap----*/
 .wrap{
 	width:70%;
 	margin:0 auto;
 }
-/*----start-content----*/
-.content{
-	
-}
+/*----start-content----*/	
 .top-grid{
 	width: 45%;
 	float: left;
